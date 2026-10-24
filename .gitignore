@@ -1,0 +1,8 @@
+# Proyecto de add-on (generado por el agente)
+addon/
+dist/
+node_modules/
+
+# Sistema
+.DS_Store
+Thumbs.db
